@@ -10,7 +10,7 @@
 
 
     @component('components.bootstrap.css') @endcomponent
-    @component('components.bootstrap.custom.css') @endcomponent
+    @component('components.bootstrap.custom.coverCss') @endcomponent
     </head>
     {{ $slot }}
 </html>

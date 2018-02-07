@@ -1,1 +1,0 @@
-<link href="static/cover.css" rel="stylesheet">

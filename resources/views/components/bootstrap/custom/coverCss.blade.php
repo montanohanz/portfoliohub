@@ -1,0 +1,1 @@
+<link href='/css/cover.css' rel="stylesheet">
